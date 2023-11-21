@@ -46,7 +46,7 @@ Based on best performance model - LDA, topic modeling using gensim on negative s
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/stevienovak/Photos-Charts-ML-Projects/main/Screenshot%202023-06-25%20at%2011.09.24%20PM.png?token=GHSAT0AAAAAACH7WGTN2SSY7YIBKRWWDOYOZK4CWDA" height="400" /></a>
 Figure 4: Top 30 Topics vs Nearest Distance - Neg
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/stevienovak/Photos-Charts-ML-Projects/main/Screenshot%202023-06-25%20at%2011.08.54%20PM.png?token=GHSAT0AAAAAACH7WGTM4EHM2DWR4AVROFHAZK4CVQA" height="400" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/stevienovak/Photos-Charts-ML-Projects/main/Screenshot%202023-06-25%20at%2011.08.54%20PM.png?token=GHSAT0AAAAAACH7WGTMGMQQZI36H24WH3IQZK4C3AA" height="400" /></a>
 Figure 5: Top 30 Topics vs Nearest Distance - Pos
 
 ## Reference
