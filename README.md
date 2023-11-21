@@ -43,10 +43,10 @@ BERT and Distilled-BERT demonstrated a superior performance in handling these nu
 
 Based on best performance model - LDA, topic modeling using gensim on negative sentiment sub-dataset showed keywords such as ‘dirty’. ‘Towel’, ‘clean’, ‘bed’, ‘bathroom’, ‘toilet’, ‘cleaning’, ‘floor’, ‘sheet’, ‘hair’, ‘shower’ which seem to highlight cleanliness issues! Topic can be labeled as ‘Cleanliness Is Key’ or ‘Banish Bathroom / Bedroom Blunders’. Positive sentiment sub-dataset showed keywords such as ‘clean’, ‘host’, ‘location’, ‘recommend’, ‘comfortable’, ‘easy’, ‘responsive’, ‘area’, ‘space’, ‘quiet’, ‘close’ which we interpreted as key traits which makes one accommodation stand out from another. We can label this topic as “Responsive Host with Clean Quiet Convenient Space”. 
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/stevienovak/Photos-Charts-ML-Projects/blob/fa6b111f1e9d2212513556e9ab3fea7bff397d4e/Screenshot%202023-06-25%20at%2011.09.24%20PM.png" height="400" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/stevienovak/Photos-Charts-ML-Projects/main/Screenshot%202023-06-25%20at%2011.09.24%20PM.png?token=GHSAT0AAAAAACH7WGTN2SSY7YIBKRWWDOYOZK4CWDA" height="400" /></a>
 Figure 4: Top 30 Topics vs Nearest Distance - Neg
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/stevienovak/Photos-Charts-ML-Projects/blob/fa6b111f1e9d2212513556e9ab3fea7bff397d4e/Screenshot%202023-06-25%20at%2011.08.54%20PM.png" height="400" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/stevienovak/Photos-Charts-ML-Projects/main/Screenshot%202023-06-25%20at%2011.08.54%20PM.png?token=GHSAT0AAAAAACH7WGTM4EHM2DWR4AVROFHAZK4CVQA" height="400" /></a>
 Figure 5: Top 30 Topics vs Nearest Distance - Pos
 
 ## Reference
