@@ -26,15 +26,15 @@ Performance outcomes of BERT and Distilled-BERT significantly exceeded expectati
 
 
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/stevienovak/Photos-Charts-ML-Projects/main/Screenshot%202023-06-25%20at%2010.49.47%20PM.png?token=GHSAT0AAAAAACH7WGTMRSH6A53PFLHR4VSEZK4CTCA" height="300" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/stevienovak/Photos-Charts-ML-Projects/main/Screenshot%202023-06-25%20at%2010.49.47%20PM.png?token=GHSAT0AAAAAACH7WGTNX45EHK54NWLW6BIEZK4CZKQ" height="300" /></a>
 Figure 1: BERT and Distilled BERT Confusion Matrix
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/stevienovak/Photos-Charts-ML-Projects/main/Screenshot%202023-06-25%20at%2010.57.42%20PM.png?token=GHSAT0AAAAAACH7WGTN6JWPDJ3DXREWSR5WZK4CRMQ" height="160" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/stevienovak/Photos-Charts-ML-Projects/main/Screenshot%202023-06-25%20at%2010.57.42%20PM.png?token=GHSAT0AAAAAACH7WGTMZEPQGWZNK7FOIRHWZK4CYGA" height="160" /></a>
 Figure 2: BERT Classification Report
 
 We tested the distilled BERT model with new data and the model demonstrated strong performance, underscoring its efficacy in dealing with new data. 
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/stevienovak/Photos-Charts-ML-Projects/main/Screenshot%202023-06-25%20at%2011.03.28%20PM.png?token=GHSAT0AAAAAACH7WGTMTT5RLZDUO74I3QMEZK4CSLA" height="200" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/stevienovak/Photos-Charts-ML-Projects/main/Screenshot%202023-06-25%20at%2011.03.28%20PM.png?token=GHSAT0AAAAAACH7WGTNOE5VJOUNVD2OBFCAZK4CYVQ" height="200" /></a>
 Figure 3: Prediction Test on New Data
 
 BERT and Distilled-BERT demonstrated a superior performance in handling these nuanced sentiment categorizations, thereby yielding better results. This signifies the promise of deep learning models in effectively capturing the intricate nature of human sentiments, which may be a valuable direction for future research. 
