@@ -26,7 +26,7 @@ Performance outcomes of BERT and Distilled-BERT significantly exceeded expectati
 
 
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/stevienovak/Photos-Charts-ML-Projects/blob/fc16ecea37996eb0ef3230afcfbb335760e188c6/Screenshot%202023-06-25%20at%2010.49.47%20PM.png" height="300" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/stevienovak/Photos-Charts-ML-Projects/main/Screenshot%202023-06-25%20at%2010.49.47%20PM.png?token=GHSAT0AAAAAACH7WGTMBCS54NDPXAQC7ZOKZK4CBUQ" height="300" /></a>
 Figure 1: BERT and Distilled BERT Confusion Matrix
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/stevienovak/Photos-Charts-ML-Projects/blob/b6ae8a48f0c153f515536d61d2d71da9f6f89ae0/Screenshot%202023-06-25%20at%2010.57.42%20PM.png" height="160" /></a>
