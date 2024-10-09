@@ -61,6 +61,6 @@ Karl H., Victor C., Chrisina J. (2022). A review on Natural Language Processing 
 Veerle V, Louise C, Matthew W, Libby B, Laurence H. (2011). Managing and Sharing Data, Best Practice for Practitioners. Retrieved Jun, 16, 2023 from https://dam.ukdataservice.ac.uk/media/622417/managingsharing.pdf 
 
 <p align="center">
-  <img src="[ ]" alt="Garage Gif" width="600">
+  <img src="https://raw.githubusercontent.com/stevienovak/garage/refs/heads/main/Airbnb_charts.gif" alt="Garage Gif" width="600">
 </p>
 
