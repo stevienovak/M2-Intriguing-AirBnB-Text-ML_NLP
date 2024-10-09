@@ -59,3 +59,8 @@ Pohle, A. (2023). Four Stars for Peeling Paint and Broken Doors? What’s Behind
 Karl H., Victor C., Chrisina J. (2022). A review on Natural Language Processing Models for COVID-19 research. Retrieved Jun, 15, 2023 from https://www.sciencedirect.com/science/article/pii/S2772442522000326
 
 Veerle V, Louise C, Matthew W, Libby B, Laurence H. (2011). Managing and Sharing Data, Best Practice for Practitioners. Retrieved Jun, 16, 2023 from https://dam.ukdataservice.ac.uk/media/622417/managingsharing.pdf 
+
+<p align="center">
+  <img src="[ ]" alt="Garage Gif" width="600">
+</p>
+
